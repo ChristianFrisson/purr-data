@@ -36,7 +36,7 @@ typedef double t_floatarg;
 #define ERROR error(
 void *pd_tilde_class;
 #define MAXPDSTRING 4096
-#define DEFDACBLKSIZE 64
+#define DEFDACBLKSIZE 1
 #endif /* MSP */
 
 #ifdef PD
